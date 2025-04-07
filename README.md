@@ -1,2 +1,2 @@
-constraint satisfaction problem using ac3 algorithm solver designed for sudoku 
+constraint satisfaction problem solver using ac3 designed for sudoku 
 for csc242 intro to ai 
